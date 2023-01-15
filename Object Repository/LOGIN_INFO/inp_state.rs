@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inp_state</name>
+   <tag></tag>
+   <elementGuidId>3e1912d7-80f6-415c-8e68-220deb255a82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='address.state']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

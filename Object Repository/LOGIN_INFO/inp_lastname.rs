@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inp_lastname</name>
+   <tag></tag>
+   <elementGuidId>b9ef8f3a-e0ff-4668-aeee-262b9966941d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='lastName']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

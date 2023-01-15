@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inp_city</name>
+   <tag></tag>
+   <elementGuidId>488e4848-6033-4af4-8f3e-8c52686670a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='address.city']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

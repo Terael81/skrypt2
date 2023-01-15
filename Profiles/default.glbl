@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://parabank.parasoft.com/parabank/lookup.htm'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>delay</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

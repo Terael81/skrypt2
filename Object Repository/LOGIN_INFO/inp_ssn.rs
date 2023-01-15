@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inp_ssn</name>
+   <tag></tag>
+   <elementGuidId>5c285849-ab64-40a5-a3f0-76dc40950f64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[@name='username']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ssn']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
